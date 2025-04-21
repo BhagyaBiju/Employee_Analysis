@@ -1,0 +1,6 @@
+Employee_ID,Gender,Age,Job_Title,Hire_Date,Years_At_Company,Education_Level,Performance_Score,Monthly_Salary,Work_Hours_Per_Week,Projects_Handled,Overtime_Hours,Sick_Days,Remote_Work_Frequency,Team_Size,Training_Hours,Promotions,Employee_Satisfaction_Score,Resigned
+101,Male,29,Software Engineer,2019-06-15,4,Master's,3,75000,40,5,10,2,3,10,15,1,4.2,0
+102,Female,34,Data Scientist,2017-09-23,6,PhD,4,95000,45,7,5,0,2,8,20,2,4.5,0
+103,Male,27,System Analyst,2021-02-11,2,Bachelor's,2,60000,38,3,0,1,1,12,10,0,3.8,0
+104,Female,40,HR Manager,2015-12-05,9,Master's,5,105000,42,4,2,3,0,5,25,3,4.9,0
+105,Male,31,Project Manager,2018-07-19,5,Master's,4,88000,44,6,8,2,1,7,18,1,4.3,0
